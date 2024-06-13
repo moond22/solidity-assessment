@@ -1,4 +1,5 @@
-pragma solidity 0.8.18;
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.26;
 
 /*
        REQUIREMENTS
@@ -14,7 +15,7 @@ pragma solidity 0.8.18;
        to the amount that is supposed to be burned.
 */
 
-pragma solidity 0.8.18;
+pragma solidity 0.8.26;
 
 contract MyToken {
 
